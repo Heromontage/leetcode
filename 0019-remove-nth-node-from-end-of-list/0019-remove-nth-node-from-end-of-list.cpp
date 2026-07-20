@@ -34,6 +34,7 @@ public:
             j++;
         }
         prev->next = next;
+        delete temp;
         return head;
     }
 };
