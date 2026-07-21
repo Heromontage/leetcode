@@ -6,15 +6,16 @@ public:
         if (winsize == 0) return 0;
         if (n < winsize) return -1;
         int st = 0;
-        int ans = -1;
-        while(st<n){
-            string t = haystack.substr(st,winsize);
-            if(t==needle){
-                ans = st;
-                break;
+        while(st<=n-winsize){
+            int end = 0;
+            while(end<winsize && haystack[st+end]==needle[end]){
+                end++;
+            }
+            if(end == winsize){
+                return st;
             }
             st++;
         }
-        return ans;
+        return -1;
     }
 };
