@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Heromontage/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heromontage/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Heromontage/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Heromontage/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/Heromontage/leetcode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Heromontage/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heromontage/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heromontage/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heromontage/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -92,9 +95,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Heromontage/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
 |  |
@@ -104,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heromontage/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
