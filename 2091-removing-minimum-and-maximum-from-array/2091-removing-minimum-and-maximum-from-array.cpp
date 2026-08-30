@@ -5,9 +5,6 @@ public:
         if(nums.size()==1){
             return 1;
         }
-        if(nums.size()==2){
-            return 2;
-        }
 
         int mi = 0;
         int ma = 0;
