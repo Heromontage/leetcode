@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Heromontage/leetcode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Heromontage/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heromontage/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Heromontage/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Heromontage/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Heromontage/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heromontage/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Heromontage/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Heromontage/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Heromontage/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Heromontage/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Heromontage/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Heromontage/leetcode/tree/master/2351-first-letter-to-appear-twice) |
