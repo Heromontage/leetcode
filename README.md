@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Heromontage/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Heromontage/leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Heromontage/leetcode/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Heromontage/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Heromontage/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Heromontage/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Heromontage/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Heromontage/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
