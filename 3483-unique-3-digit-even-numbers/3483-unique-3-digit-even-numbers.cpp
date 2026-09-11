@@ -4,8 +4,10 @@ public:
 
     void help(const vector<int>& digits, vector<bool>& used, vector<int>& combin, vector<vector<int>>& ans) {
         if (combin.size() == 3) {
-            if (combin[0] != 0 && combin[2] % 2 == 0 && st.insert(combin).second)
+            if (combin[0] != 0 && combin[2] % 2 == 0 && st.find(combin)==st.end()){
                 ans.push_back(combin);
+                st.insert(combin);
+            }
             return;
         }
 
