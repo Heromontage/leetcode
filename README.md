@@ -211,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Heromontage/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Heromontage/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
