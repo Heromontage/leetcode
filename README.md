@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Heromontage/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Heromontage/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Heromontage/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Heromontage/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Heromontage/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Heromontage/leetcode/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Heromontage/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Heromontage/leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Heromontage/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heromontage/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Heromontage/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Heromontage/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Heromontage/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Heap (Priority Queue)
 |  |
