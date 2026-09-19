@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Heromontage/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Heromontage/leetcode/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Heromontage/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1053-previous-permutation-with-one-swap](https://github.com/Heromontage/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1260-shift-2d-grid](https://github.com/Heromontage/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heromontage/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Heromontage/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1053-previous-permutation-with-one-swap](https://github.com/Heromontage/leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Heromontage/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
