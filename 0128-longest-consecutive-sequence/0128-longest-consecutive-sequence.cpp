@@ -4,6 +4,7 @@ public:
         set<int>s(nums.begin(),nums.end());
         int ans = 0;
         for(int num:s){
+            if(s.count(num-1)) continue;
             if(s.find(num-1)==s.end()){
                 int curr = num;
                 int length = 1;
