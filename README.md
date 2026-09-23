@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Heromontage/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heromontage/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Heromontage/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Heromontage/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Heromontage/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Heromontage/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heromontage/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Heromontage/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Heromontage/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Heromontage/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Heromontage/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Heromontage/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Heromontage/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Heromontage/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Heromontage/leetcode/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Heromontage/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Heromontage/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Heromontage/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Heromontage/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
 | ------- |
