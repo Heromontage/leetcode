@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Heromontage/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Heromontage/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Heromontage/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heromontage/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Heromontage/leetcode/tree/master/3870-count-commas-in-range) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Heromontage/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Heromontage/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Heromontage/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heromontage/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Heromontage/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
