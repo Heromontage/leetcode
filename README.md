@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Heromontage/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Heromontage/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Heromontage/leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Heromontage/leetcode/tree/master/0733-flood-fill) |
@@ -217,10 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Heromontage/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Heromontage/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Heromontage/leetcode/tree/master/0110-balanced-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Heromontage/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
