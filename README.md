@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Heromontage/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Heromontage/leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Heromontage/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Heromontage/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Heromontage/leetcode/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/Heromontage/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Heromontage/leetcode/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Heromontage/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
