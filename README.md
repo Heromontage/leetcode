@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Heromontage/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Heromontage/leetcode/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Heromontage/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/Heromontage/leetcode/tree/master/2409-count-days-spent-together) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Heromontage/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Heromontage/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Heromontage/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Heromontage/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Heromontage/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Heromontage/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Heromontage/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Heromontage/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Heromontage/leetcode/tree/master/0724-find-pivot-index) |
